@@ -1,6 +1,6 @@
 <?php
 //ライブラリよみこみ
-require '../vendor/autoload.php'
+require '../vendor/autoload.php';
 //Slimの初期化
 $app = new \Slim\Slim([]);
 //Slimにルートを登録
